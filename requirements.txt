@@ -124,7 +124,7 @@ pyparsing==2.4.6
 Pyrebase==3.0.27
 pyrsistent==0.15.6
 python-dateutil==2.8.1
-python-jwt==2.0.1
+python-jwt==3.3.4
 pytorch-pretrained-bert==0.6.2
 pytz==2019.3
 PyYAML==5.3
